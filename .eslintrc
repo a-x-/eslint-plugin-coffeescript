@@ -1,0 +1,10 @@
+{
+	plugins: [
+		"eslint-plugin-coffee",
+		"import"
+	],
+	"extends": [
+		"plugin:coffee/recommended",
+		"eslint:recommended"
+	]
+}

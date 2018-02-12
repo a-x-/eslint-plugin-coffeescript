@@ -1,0 +1,14 @@
+{
+	"plugins": [
+		['babel-plugin-lodash', { 'id': 'lodash'}],
+		['babel-plugin-transform-es2015-modules-commonjs', {
+	      'allowTopLevelThis': true
+	    }]
+	],
+	"presets": [
+		["env", {
+			"modules": "commonjs",
+			"useBuiltIns": "usage"
+		}]
+	]
+}
