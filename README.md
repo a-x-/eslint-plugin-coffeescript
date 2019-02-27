@@ -1,3 +1,8 @@
+# Archived
+Use [@fellow/eslint-plugin-coffee](https://www.npmjs.com/package/@fellow/eslint-plugin-coffee) please
+
+---
+
 # eslint-plugin-coffeescript
 
 Transpiles .coffee and .cjsx files before with coffeescript, then runs eslint checks on them.
